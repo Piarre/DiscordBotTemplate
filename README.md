@@ -8,7 +8,7 @@ Discord Bot Client.
 ## 🧾 Avaible commands
 - Get the Bot ping with ```/ping```.
 - Clear any channel with ```/clear``` up to 100 messages.
-- Get a Watch2Gehter link with ```/w2g```.
+- Get a Watch2Gehter link with ```/room``.
 - Get the BAN HAMMER ```/ban``` & ```/kick```.
 - Get you best streamer's channel with ```/streamers```.
 - Create a dropdown menu with [dropdown menu](https://github.com/Piarre/DiscordBotTemplate#dropdown-menu).
